@@ -1,0 +1,1 @@
+Executar o programa atraves do MapeamentoPolitico.bat.
